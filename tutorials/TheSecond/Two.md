@@ -1,5 +1,5 @@
 ---
-title: Daria TG Two
+title: ADMINTOOL Test 
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
